@@ -1,4 +1,4 @@
-RUTA_ARCHIVO = "inventario.json" #usar mayusculas para rutas es una buena practica
+RUTA_ARCHIVO = "inventario.json" 
 
 import os
 import json

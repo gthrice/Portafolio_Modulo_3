@@ -138,7 +138,7 @@ def main():
                             print(f"\nLas características del objeto '{objeto_a_modificar['caracteristicas']}' han sido modificadas.\n")    
                     elif opcion_modificar == "5":
                         guardar_objeto(objetos)
-                        print(f"\nEl objeto ha sido modificado exitosamente.\n")
+                        print("\nEl objeto ha sido modificado exitosamente.\n")
                         break
                     else:
                         print("\nOpción inválida. Por favor, seleccione una opción del 1 al 5.\n")
